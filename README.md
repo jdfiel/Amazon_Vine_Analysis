@@ -12,7 +12,7 @@ To conduct the analysis, we filtered our reviews into multiple stages. First, we
 
 The results were as follows:
 
-![results]()
+![results](https://github.com/jdfiel/Amazon_Vine_Analysis/blob/main/Resources/results.png)
 
 * In total there were 37,921 reviews
 * 44 Vine reviews were 5 stars
@@ -22,18 +22,20 @@ The results were as follows:
 
 Below, are the steps taken to filter the raw Vines data.
 
-![results](https://github.com/jdfiel/Amazon_Vine_Analysis/blob/main/Resources/results.png)
-
+### Raw Data
 ![raw_df](https://github.com/jdfiel/Amazon_Vine_Analysis/blob/main/Resources/raw_df.png)
 
+### Filtered Data
 ![filtered](https://github.com/jdfiel/Amazon_Vine_Analysis/blob/main/Resources/filtered.png)
 
+### _Helpful_ Data
 ![helpful](https://github.com/jdfiel/Amazon_Vine_Analysis/blob/main/Resources/helpful.png)
 
+### Vines Reviews
 ![paid](https://github.com/jdfiel/Amazon_Vine_Analysis/blob/main/Resources/paid.png)
 
+### Non-Vines Reviews
 ![unpaid](https://github.com/jdfiel/Amazon_Vine_Analysis/blob/main/Resources/unpaid.png)
-
 
 
 ## Summary 
